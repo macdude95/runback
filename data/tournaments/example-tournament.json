@@ -1,0 +1,82 @@
+{
+  "id": "123456",
+  "name": "Example Major 2026",
+  "slug": "example-tournament",
+  "startggSlug": "tournament/example-major-2026",
+  "game": "Super Smash Bros. Melee",
+  "date": "2026-05-15",
+  "sets": [
+    {
+      "id": "98001",
+      "round": 1,
+      "fullRoundText": "Winners Round 1",
+      "entrants": [
+        {
+          "id": "5001",
+          "name": "Player One",
+          "gamerTag": "P1",
+          "characters": ["Fox", "Falco"]
+        },
+        {
+          "id": "5002",
+          "name": "Player Two",
+          "gamerTag": "P2",
+          "characters": ["Marth"]
+        }
+      ],
+      "winnerId": "5001",
+      "score": "3-1",
+      "vodUrl": null,
+      "vodStartTime": null,
+      "vodEndTime": null
+    },
+    {
+      "id": "98002",
+      "round": 2,
+      "fullRoundText": "Winners Semifinals",
+      "entrants": [
+        {
+          "id": "5001",
+          "name": "Player One",
+          "gamerTag": "P1",
+          "characters": ["Fox"]
+        },
+        {
+          "id": "5003",
+          "name": "Player Three",
+          "gamerTag": "P3",
+          "characters": ["Sheik", "Zelda"]
+        }
+      ],
+      "winnerId": "5003",
+      "score": "2-3",
+      "vodUrl": "https://youtube.com/watch?v=example",
+      "vodStartTime": 1230,
+      "vodEndTime": 2450
+    },
+    {
+      "id": "98003",
+      "round": -1,
+      "fullRoundText": "Losers Round 1",
+      "entrants": [
+        {
+          "id": "5001",
+          "name": "Player One",
+          "gamerTag": "P1",
+          "characters": ["Fox"]
+        },
+        {
+          "id": "5004",
+          "name": "Player Four",
+          "gamerTag": "P4",
+          "characters": ["Peach"]
+        }
+      ],
+      "winnerId": "5001",
+      "score": "3-0",
+      "vodUrl": null,
+      "vodStartTime": null,
+      "vodEndTime": null
+    }
+  ]
+}

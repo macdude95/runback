@@ -1,0 +1,15 @@
+{
+  "id": "melee",
+  "name": "Super Smash Bros. Melee",
+  "slug": "melee",
+  "characters": [
+    { "name": "Fox", "slug": "fox" },
+    { "name": "Falco", "slug": "falco" },
+    { "name": "Marth", "slug": "marth" },
+    { "name": "Sheik", "slug": "sheik" },
+    { "name": "Jigglypuff", "slug": "jigglypuff" },
+    { "name": "Peach", "slug": "peach" },
+    { "name": "Captain Falcon", "slug": "captain-falcon" },
+    { "name": "Ice Climbers", "slug": "ice-climbers" }
+  ]
+}
